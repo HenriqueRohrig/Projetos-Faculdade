@@ -1,7 +1,0 @@
-Questão 2:
-
-C) 
--Se o valor de X for "9", então o programa irá exibir "NÚMERO" e ler o X novamente, entrando em um laço de repetição.
--Se o valor de X for "0", então o programa irá exibir "NÚMERO" e ler o X novamente, entrando em um laço de repetição.
--Se o valor de X for "5", então o programa irá exibir "NÚMERO" e ler o X novamente, entrando em um laço de repetição.
--Se X for "A", então o programa irá exibir apenas "CARACTERE".
