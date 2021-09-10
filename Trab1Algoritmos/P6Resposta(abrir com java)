@@ -1,5 +1,0 @@
-//O algorítmo irá mostrar 50 vezes o número 8 e 50 vezes "caminho à direita", pois segundo o fluxograma, toda vez
-//que o número digitado no programa for dívidido por 2 e ter resto 0 ele irá mostrar o texto "caminho à direita",
-//que no caso é o mesmo que dizer que o número digitado é par, portanto, toda vez que digitar um número par, a men-
-//sagem será exibida, caso for ímpar, simplesmente dirá o número 8, entre 1 e 100, há 50 números pares e 50 números
-//ímpares.
